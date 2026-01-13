@@ -5,5 +5,5 @@ Sales performance analysis of a retail superstore using Excel and Power BI
 <img width="793" height="443" alt="Year on year Performance" src="https://github.com/user-attachments/assets/eadd43af-cbb4-4663-b90e-da2efab538ca" />
 <img width="884" height="494" alt="Sales performance snap shot" src="https://github.com/user-attachments/assets/20406433-c1b4-49f3-b8dc-4f97d2008656" />
 
-Added dataset and Power BI dashboard Screenshots
+
 
